@@ -1,4 +1,4 @@
-# 🛒 Product Maintenance  Backend 
+# 🛒 Product Management  Backend 
 
 A Node.js + MongoDB backend project to manage products with auto-generated product codes and category associations.
 
